@@ -1,2 +1,2 @@
-# jp-app
-App to learn Japanese
+# biblia-app
+App de biblia
