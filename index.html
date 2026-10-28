@@ -17,37 +17,24 @@
     <section class="controls" aria-label="Buscador">
       <div class="field">
         <label for="version">Versión</label>
-        <select id="version">
-          <option value="rvr">Reina-Valera 1909</option>
-          <option value="valera">Valera 1865</option>
-          <option value="kjv">King James (inglés)</option>
-          <option value="clementine">Vulgata Clementina (latín)</option>
-        </select>
+        <select id="version"></select>
       </div>
 
       <div class="field grow">
-        <label for="reference">Cita</label>
-        <input id="reference" type="text" placeholder="Ej.: Juan 3:16  o  Salmos 23" />
+        <label for="reference">Pasaje</label>
+        <select id="reference"></select>
       </div>
 
-      <button id="search" type="button">Buscar</button>
-    </section>
-
-    <section class="quick" aria-label="Lecturas rápidas">
-      <button class="chip" data-ref="Juan 3:16">Juan 3:16</button>
-      <button class="chip" data-ref="Salmos 23">Salmos 23</button>
-      <button class="chip" data-ref="Génesis 1:1-5">Génesis 1</button>
-      <button class="chip" data-ref="Mateo 5:3-12">Bienaventuranzas</button>
-      <button class="chip" data-ref="1 Corintios 13">El amor</button>
+      <button id="search" type="button">Leer</button>
     </section>
 
     <section id="result" class="result" aria-live="polite">
-      <p class="hint">Escribe una cita y pulsa <strong>Buscar</strong>.</p>
+      <p class="hint">Cargando la Palabra…</p>
     </section>
   </main>
 
   <footer class="site-footer">
-    <p>Textos de dominio público · vía bible-api.com</p>
+    <p>Textos de dominio público · Reina-Valera 1909 y King James</p>
   </footer>
 
   <script src="app.js"></script>

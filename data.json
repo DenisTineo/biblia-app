@@ -1,0 +1,106 @@
+{
+  "versiones": {
+    "rvr1909": "Reina-Valera 1909 (español)",
+    "kjv": "King James Version (inglés)"
+  },
+  "pasajes": {
+    "Juan 3:16": {
+      "rvr1909": [
+        { "v": 16, "t": "Porque de tal manera amó Dios al mundo, que ha dado á su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna." }
+      ],
+      "kjv": [
+        { "v": 16, "t": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." }
+      ]
+    },
+    "Salmos 23": {
+      "rvr1909": [
+        { "v": 1, "t": "Jehová es mi pastor; nada me faltará." },
+        { "v": 2, "t": "En lugares de delicados pastos me hará yacer: Junto á aguas de reposo me pastoreará." },
+        { "v": 3, "t": "Confortará mi alma; Guiárame por sendas de justicia por amor de su nombre." },
+        { "v": 4, "t": "Aunque ande en valle de sombra de muerte, No temeré mal alguno; porque tú estarás conmigo: Tu vara y tu cayado me infundirán aliento." },
+        { "v": 5, "t": "Aderezarás mesa delante de mí, en presencia de mis angustiadores: Ungiste mi cabeza con aceite; mi copa está rebosando." },
+        { "v": 6, "t": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida: Y en la casa de Jehová moraré por largos días." }
+      ],
+      "kjv": [
+        { "v": 1, "t": "The LORD is my shepherd; I shall not want." },
+        { "v": 2, "t": "He maketh me to lie down in green pastures: he leadeth me beside the still waters." },
+        { "v": 3, "t": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake." },
+        { "v": 4, "t": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me." },
+        { "v": 5, "t": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over." },
+        { "v": 6, "t": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever." }
+      ]
+    },
+    "Génesis 1:1-5": {
+      "rvr1909": [
+        { "v": 1, "t": "En el principio crió Dios los cielos y la tierra." },
+        { "v": 2, "t": "Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas." },
+        { "v": 3, "t": "Y dijo Dios: Sea la luz: y fué la luz." },
+        { "v": 4, "t": "Y vió Dios que la luz era buena: y apartó Dios la luz de las tinieblas." },
+        { "v": 5, "t": "Y llamó Dios á la luz Día, y á las tinieblas llamó Noche: y fué la tarde y la mañana un día." }
+      ],
+      "kjv": [
+        { "v": 1, "t": "In the beginning God created the heaven and the earth." },
+        { "v": 2, "t": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters." },
+        { "v": 3, "t": "And God said, Let there be light: and there was light." },
+        { "v": 4, "t": "And God saw the light, that it was good: and God divided the light from the darkness." },
+        { "v": 5, "t": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day." }
+      ]
+    },
+    "Mateo 5:3-12": {
+      "rvr1909": [
+        { "v": 3, "t": "Bienaventurados los pobres en espíritu: porque de ellos es el reino de los cielos." },
+        { "v": 4, "t": "Bienaventurados los que lloran: porque ellos recibirán consolación." },
+        { "v": 5, "t": "Bienaventurados los mansos: porque ellos recibirán la tierra por heredad." },
+        { "v": 6, "t": "Bienaventurados los que tienen hambre y sed de justicia: porque ellos serán hartos." },
+        { "v": 7, "t": "Bienaventurados los misericordiosos: porque ellos alcanzarán misericordia." },
+        { "v": 8, "t": "Bienaventurados los de limpio corazón: porque ellos verán á Dios." },
+        { "v": 9, "t": "Bienaventurados los pacificadores: porque ellos serán llamados hijos de Dios." },
+        { "v": 10, "t": "Bienaventurados los que padecen persecución por causa de la justicia: porque de ellos es el reino de los cielos." },
+        { "v": 11, "t": "Bienaventurados sois cuando os vituperaren y os persiguieren, y dijeren de vosotros todo mal por mi causa, mintiendo." },
+        { "v": 12, "t": "Gozaos y alegraos; porque vuestra merced es grande en los cielos: que así persiguieron á los profetas que fueron antes de vosotros." }
+      ],
+      "kjv": [
+        { "v": 3, "t": "Blessed are the poor in spirit: for theirs is the kingdom of heaven." },
+        { "v": 4, "t": "Blessed are they that mourn: for they shall be comforted." },
+        { "v": 5, "t": "Blessed are the meek: for they shall inherit the earth." },
+        { "v": 6, "t": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled." },
+        { "v": 7, "t": "Blessed are the merciful: for they shall obtain mercy." },
+        { "v": 8, "t": "Blessed are the pure in heart: for they shall see God." },
+        { "v": 9, "t": "Blessed are the peacemakers: for they shall be called the children of God." },
+        { "v": 10, "t": "Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven." },
+        { "v": 11, "t": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake." },
+        { "v": 12, "t": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you." }
+      ]
+    },
+    "1 Corintios 13:4-7": {
+      "rvr1909": [
+        { "v": 4, "t": "La caridad es sufrida, es benigna; la caridad no tiene envidia, la caridad no hace sinrazón, no se ensancha;" },
+        { "v": 5, "t": "No es injuriosa, no busca lo suyo, no se irrita, no piensa el mal;" },
+        { "v": 6, "t": "No se huelga de la injusticia, mas se huelga de la verdad;" },
+        { "v": 7, "t": "Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta." }
+      ],
+      "kjv": [
+        { "v": 4, "t": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up," },
+        { "v": 5, "t": "Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;" },
+        { "v": 6, "t": "Rejoiceth not in iniquity, but rejoiceth in the truth;" },
+        { "v": 7, "t": "Beareth all things, believeth all things, hopeth all things, endureth all things." }
+      ]
+    },
+    "Padre Nuestro (Mateo 6:9-13)": {
+      "rvr1909": [
+        { "v": 9, "t": "Vosotros pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre." },
+        { "v": 10, "t": "Venga tu reino. Sea hecha tu voluntad, como en el cielo, así también en la tierra." },
+        { "v": 11, "t": "Danos hoy nuestro pan cotidiano." },
+        { "v": 12, "t": "Y perdónanos nuestras deudas, como también nosotros perdonamos á nuestros deudores." },
+        { "v": 13, "t": "Y no nos metas en tentación, mas líbranos del mal: porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén." }
+      ],
+      "kjv": [
+        { "v": 9, "t": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name." },
+        { "v": 10, "t": "Thy kingdom come. Thy will be done in earth, as it is in heaven." },
+        { "v": 11, "t": "Give us this day our daily bread." },
+        { "v": 12, "t": "And forgive us our debts, as we forgive our debtors." },
+        { "v": 13, "t": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen." }
+      ]
+    }
+  }
+}
